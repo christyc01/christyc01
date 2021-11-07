@@ -3,8 +3,9 @@ Thanks for stopping by!  Please feel free to check out [**my portfolio** (https:
 
 [![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=christyc01&hide=stars&show_icons=true&count_private=true&title_color=333333&icon_color=333333&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--  TEMPORARILY REMOVING (doesn't seem to be accurate).  Check back later.
 [![Christy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=christyc01&show_icons=true&count_private=true&layout=compact&title_color=333333&border_radius=25&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
